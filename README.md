@@ -1,10 +1,6 @@
-💻 | IT/Programmer
-⌨️ | Web Developer
-🏙 | Graphic Designer
 👾 | Github.com/JustinSobo
 🏀 | Dribbble.com/JustinSobo
 🧰 | GotJustin.com
-
 
 
 
