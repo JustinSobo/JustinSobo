@@ -5,10 +5,7 @@
 💬 | Also have some experience with: Bash, C++, JavaScript, & Swift<br>
 🌱 | Currently learning: ...Microsoft Azure...<br>
 
-
-
-
-
+<!-- TCP, UDP, SSL, DNS, DHCP, NAT, VPN, Kali, Manjaro, Ubuntu, Nmap, Python 3, HTML 5 ,CSS 3, Javascript, VMWare, Windows Hyper-V Manager, Citrix XenApp, Microsoft Powershell, Microsoft Azure, SaaS, PaaS, IaaS, Active Directory (ADUC), Windows Server 2008 - 2016, Microsoft Office 365, Photoshop CC 2020, InDesign CC 2020 -->
 
 <!--
 **JustinSobo/JustinSobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
