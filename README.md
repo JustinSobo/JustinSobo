@@ -1,6 +1,19 @@
+<table>
+
+<tr>
+
+<td style="width:50%">
 🌐 | <a href="Dribbble.com/JustinSobo">Dribbble</a><br>
 💼 | <a href="https://www.linkedin.com/in/justinsobo/">LinkedIn</a><br>
 💻 | <a href="GotJustin.com">GotJustin</a><br>
+</td>
+
+<td style="width:50%">
+  <p>This is a test.</p>
+</td>
+
+</tr>
+</table>
 
 
 
