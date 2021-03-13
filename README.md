@@ -1,19 +1,10 @@
-<table>
-
-<tr>
-
-<td style="width:50%">
 🌐 | <a href="Dribbble.com/JustinSobo">Dribbble</a><br>
 💼 | <a href="https://www.linkedin.com/in/justinsobo/">LinkedIn</a><br>
 💻 | <a href="GotJustin.com">GotJustin</a><br>
-</td>
 
-<td style="width:50%">
-  <p></p>
-</td>
+<br>🌱 I’m currently learning ... Microsoft Azure<br>
+Microsoft Azure, commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 
-</tr>
-</table>
 
 
 
