@@ -1,4 +1,13 @@
-### Hi there 👋
+💻 | IT/Programmer
+⌨️ | Web Developer
+🏙 | Graphic Designer
+👾 | Github.com/JustinSobo
+🏀 | Dribbble.com/JustinSobo
+🧰 | GotJustin.com
+
+
+
+
 
 <!--
 **JustinSobo/JustinSobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
