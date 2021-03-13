@@ -1,7 +1,7 @@
 🌐 | <a href="Dribbble.com/JustinSobo">Dribbble</a><br>
 💼 | <a href="https://www.linkedin.com/in/justinsobo/">LinkedIn</a><br>
 💻 | <a href="GotJustin.com">GotJustin</a><br>
-
+⚡ I’m fluent in ... PowerShell, Python, HTML, CSS<br>
 🌱 I’m currently learning ... Microsoft Azure<br>
 
 
