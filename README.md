@@ -9,7 +9,7 @@
 </td>
 
 <td style="width:50%">
-  <p>This is a test.</p>
+  <p></p>
 </td>
 
 </tr>
