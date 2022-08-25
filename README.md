@@ -3,7 +3,8 @@
 💼 | <a href="https://www.linkedin.com/in/justinsobo/">LinkedIn</a><br>
 💻 | <a href="https://www.gotjustin.com/">GotJustin</a><br>
 -->
-✨ | I’m fluent in: Python, PowerShell, HTML, & CSS.<br>
+✨ | Fluent in: Python, PowerShell, HTML, & CSS.<br>
+⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development's hemisphere of IT.
 💬 | Some experience with: Bash, C++, JavaScript, & Swift.<br>
 🌱 | Currently expanding knowledge in: <b>AWS, and DevOps Concepts.</b><br>
 
