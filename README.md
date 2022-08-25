@@ -4,7 +4,7 @@
 💻 | <a href="https://www.gotjustin.com/">GotJustin</a><br>
 -->
 ✨ | Fluent in: Python, PowerShell, HTML, & CSS.<br>
-⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development's hemisphere of IT.
+⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development's hemisphere of IT.<br>
 💬 | Some experience with: Bash, C++, JavaScript, & Swift.<br>
 🌱 | Currently expanding knowledge in: <b>AWS, and DevOps Concepts.</b><br>
 
