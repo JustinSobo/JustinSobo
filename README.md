@@ -4,9 +4,9 @@
 💻 | <a href="https://www.gotjustin.com/">GotJustin</a><br>
 -->
 ✨ | Fluent in: Python, PowerShell, HTML, & CSS.<br>
-⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development's hemisphere of IT.<br>
+⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development hemisphere of IT.<br>
 💬 | Some experience with: Bash, C++, JavaScript, & Swift.<br>
-🌱 | Currently expanding knowledge in: <b>AWS, and DevOps Concepts.</b><br>
+🌱 | Currently expanding knowledge in: <b>React.js, AWS, and DevOps Concepts.</b><br>
 
 <!-- TCP, UDP, SSL, DNS, DHCP, NAT, VPN, Kali, Manjaro, Ubuntu, Nmap, Python 3, HTML 5 ,CSS 3, Javascript, VMWare, Windows Hyper-V Manager, Citrix XenApp, Microsoft Powershell, Microsoft Azure, SaaS, PaaS, IaaS, Active Directory (ADUC), Windows Server 2008 - 2016, Microsoft Office 365, Photoshop CC 2020, InDesign CC 2020 -->
 
