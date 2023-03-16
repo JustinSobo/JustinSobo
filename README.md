@@ -5,8 +5,8 @@
 -->
 ✨ | Fluent in: Python, PowerShell, HTML, & CSS.<br>
 ⏹️ | I'm predominantly skilled in infrastruture, but have had great success adopting skills from the development hemisphere of IT.<br>
-💬 | Some experience with: Bash, C++, JavaScript, & Swift.<br>
-🌱 | Currently expanding knowledge in: <b>React.js, AWS, and DevOps Concepts.</b><br>
+💬 | Some experience with: Bash, C++, C#, JavaScript, Vue.js, React.js, & Swift.<br>
+🌱 | Currently expanding knowledge in: <b>Azure and DevOps Concepts.</b><br>
 
 <!-- TCP, UDP, SSL, DNS, DHCP, NAT, VPN, Kali, Manjaro, Ubuntu, Nmap, Python 3, HTML 5 ,CSS 3, Javascript, VMWare, Windows Hyper-V Manager, Citrix XenApp, Microsoft Powershell, Microsoft Azure, SaaS, PaaS, IaaS, Active Directory (ADUC), Windows Server 2008 - 2016, Microsoft Office 365, Photoshop CC 2020, InDesign CC 2020 -->
 
